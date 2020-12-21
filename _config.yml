@@ -1,3 +1,4 @@
+baseurl: /itkannsite
 # Site settings
 title: Freelancer
 email: your-email@domain.com
@@ -6,7 +7,6 @@ description: "Write an awesome description for your new site here. You can edit 
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
-baseurl: "/itkannsite"
 # Google webmaster tools
 google_verify:
 
