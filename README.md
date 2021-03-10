@@ -1,32 +1,44 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
+# Launch - Coming Soon Page
+Launch is free Coming Soon Page based on Bootstrap 4 and licensed under MIT. It's completely free to use, even commercially.
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
+### Online Documentation
 
----
-```
+Use [Stream UI Kit](https://github.com/htmlstreamofficial/stream-ui-kit) documentation to quick start. Here is a link to [online documentation](https://htmlstream.com/preview/stream-ui-kit/docs.html)
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+### Built by Htmlstream
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+Stream Ui Kit is built by the team that has customers in the background such us Stanford University, The University of Maryland, University of Victoria and many more Governments, Corporate Agencies.
+
+Our soical network profiles:
+
+- [Twitter](https://twitter.com/htmlstream)
+- [Facebook](https://www.facebook.com/)
+- [Dribbble](https://dribbble.com/htmlstream)
+- [Instagram](https://www.instagram.com/htmlstream/)
+
+
+### Credits
+
+First, let us take this opportunity to thank all the creative minds for their great products and hard work. All used third party libraries are located in `assets/vendor/..` and image sources in `assets/img-temp/..`
+
+Name | URL
+------------ | -------------
+Bootstrap | https://getbootstrap.com
+jQuery | http://jquery.com
+Font Awesome | https://fontawesome.com
+The Final Countdown | http://hilios.github.io/jQuery.countdown
+jQuery Parallax | https://ianlunn.co.uk/plugins/jquery-parallax
+
+#### Fonts & Images
+
+- Google Fonts: http://www.google.com/fonts
+- Unsplash Beautiful free photos: http://unsplash.com
+
+
+### Licensed under MIT
+
+Launch - Coming Soon Page is Open Source project and licensed under MIT for better Web.
+
+![MIT License](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=for-the-badge)
